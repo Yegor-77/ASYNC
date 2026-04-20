@@ -1,24 +1,14 @@
 {
-  "dependencies": {
-    "json-server": "^1.0.0-beta.15"
-  },
-  "name": "async",
+  "name": "hw-12-countries",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "devDependencies": {},
   "scripts": {
-    "server": "json-server --watch db.json --port 3001",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Yegor-77/ASYNC.git"
+  "dependencies": {
+    "lodash.debounce": "^4.0.8"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Yegor-77/ASYNC/issues"
-  },
-  "homepage": "https://github.com/Yegor-77/ASYNC#readme"
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
 }
