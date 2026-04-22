@@ -1,5 +1,4 @@
-const API_KEY = "https://newsapi.org/docs"; /// я не памятаю уже як це найти ))
-
+const API_KEY = "44015822-49767676646b9a89767f40673";
 const BASE_URL = "https://pixabay.com/api/";
 
 let page = 1;
@@ -36,7 +35,7 @@ function renderImages(images) {
     div.classList.add("image-card");
 
     div.innerHTML = `
-      <img src="${img.webformatURL}" alt="${img.tags}">
+      <img src="${img.webformatURL}" alt="${img.tags}" style="width: 300px; margin: 10px;">
     `;
 
     gallery.appendChild(div);
