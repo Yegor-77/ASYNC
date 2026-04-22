@@ -1,13 +1,12 @@
-1264
-42C:\Users\egorh\Documents\GitHub\ASYNC\dist134211744616494371 1
+1263
+42C:\Users\egorh\Documents\GitHub\ASYNC\dist134213508129365192 1
 59C:\Users\egorh\Documents\GitHub\ASYNC\hw-12-countries@1.0.0134211742809600145 0
 93C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\lowdb\lib\adapters\browser\LocalStorage.js134201385549828838 0
-41C:\Users\egorh\Documents\GitHub\ASYNC\src134213496334467811 1
+41C:\Users\egorh\Documents\GitHub\ASYNC\src134213507724929142 1
 86C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\lowdb\lib\adapters\node\DataFile.js134201385549336820 0
 75C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\mime\dist\types\other.js134201385549859854 0
 76C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\type-fest\source\and.d.ts134201385549909935 0
 69C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\dayjs\locale\mk.js134201385557756242 0
-48C:\Users\egorh\Documents\GitHub\ASYNC\src\app.js134213496053769444 0
 56C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\lowdb134201385550338699 1
 50C:\Users\egorh\Documents\GitHub\ASYNC\node_modules134205603082995548 1
 73C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\dayjs\esm\locale\ro.js134201385559028710 0
@@ -30,13 +29,14 @@
 82C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\@tinyhttp\send\dist\send.js.map134201385550230789 0
 69C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\dayjs\dayjs.min.js134201385552384493 0
 44C:\Users\egorh\Documents\GitHub\ASYNC\parcel134211742811725376 0
+83C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\type-fest\source\characters.d.ts134201385550929600 0
 74C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\json-server\schema.json134201385550250967 0
 47C:\Users\egorh\Documents\GitHub\ASYNC\README.md134201384990505778 0
 57C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\mrmime134201385549480782 1
-52C:\Users\egorh\Documents\GitHub\ASYNC\src\index.html134213496786979727 0
+52C:\Users\egorh\Documents\GitHub\ASYNC\src\index.html134213508124913827 0
 72C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\dayjs\locale\fr-ca.js134201385553878367 0
 73C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\dayjs\esm\locale\bn.js134201385551620529 0
-50C:\Users\egorh\Documents\GitHub\ASYNC\src\index.js134211744095802735 0
+50C:\Users\egorh\Documents\GitHub\ASYNC\src\index.js134213504659862594 0
 73C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\dayjs\esm\locale\et.js134201385553597508 0
 75C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\eta\dist\index.d.mts.map134201385550052169 0
 95C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\type-fest\source\camel-cased-properties.d.ts134201385550842896 0
@@ -155,7 +155,6 @@
 69C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\dayjs\locale\ru.js134201385559112261 0
 83C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\type-fest\source\camel-case.d.ts134201385550682312 0
 66C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\steno\README.md134201385549180772 0
-83C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\type-fest\source\characters.d.ts134201385550929600 0
 81C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\type-fest\source\is-tuple.d.ts134201385553178204 0
 89C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\type-fest\source\conditional-keys.d.ts134201385551126009 0
 76C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\dayjs\esm\locale\ar-ly.js134201385550220792 0
@@ -872,8 +871,8 @@
 69C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\dayjs\locale\eo.js134201385553348081 0
 69C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\dayjs\locale\fa.js134201385553683443 0
 69C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\dayjs\locale\fo.js134201385553840763 0
-86C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\@tinyhttp\type-is\dist\index.js.map134201385549346852 0
 69C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\dayjs\locale\fr.js134201385553948921 0
+86C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\@tinyhttp\type-is\dist\index.js.map134201385549346852 0
 69C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\dayjs\locale\gd.js134201385554059671 0
 89C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\dayjs\esm\plugin\isTomorrow\index.d.ts134201385561811002 0
 69C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\dayjs\locale\gl.js134201385554099700 0
@@ -1173,7 +1172,7 @@
 83C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\@tinyhttp\res\dist\redirect.d.ts134201385551329193 0
 81C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\@tinyhttp\res\dist\redirect.js134201385549790930 0
 79C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\@tinyhttp\res\dist\util.d.ts134201385551399207 0
-53C:\Users\egorh\Documents\GitHub\ASYNC\dist\index.html134211744615814241 0
+53C:\Users\egorh\Documents\GitHub\ASYNC\dist\index.html134213508128590013 0
 77C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\@tinyhttp\res\dist\util.js134201385549859854 0
 77C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\@tinyhttp\req\package.json134201385549362415 0
 82C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\@tinyhttp\req\dist\accepts.d.ts134201385550113179 0
@@ -1230,9 +1229,9 @@
 84C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\@tinyhttp\app\dist\index.d.ts.map134201385550272710 0
 87C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\@tinyhttp\accepts\dist\negotiator.js134201385548735277 0
 82C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\@tinyhttp\app\dist\index.js.map134201385550307808 0
-61C:\Users\egorh\Documents\GitHub\ASYNC\dist\ASYNC.3a01df49.css134211744616264216 0
+61C:\Users\egorh\Documents\GitHub\ASYNC\dist\ASYNC.3a01df49.css134213508129302923 0
 82C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\@tinyhttp\app\dist\onError.d.ts134201385551181642 0
-65C:\Users\egorh\Documents\GitHub\ASYNC\dist\ASYNC.3a01df49.css.map134211744616374221 0
+65C:\Users\egorh\Documents\GitHub\ASYNC\dist\ASYNC.3a01df49.css.map134213508129347781 0
 86C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\@tinyhttp\app\dist\onError.d.ts.map134201385550338699 0
 80C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\@tinyhttp\app\dist\onError.js134201385549450388 0
 86C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\@tinyhttp\app\dist\request.d.ts.map134201385550455342 0
@@ -1259,7 +1258,7 @@
 65C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\.bin\json5.cmd134201385562993813 0
 65C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\.bin\json5.ps1134201385562993813 0
 64C:\Users\egorh\Documents\GitHub\ASYNC\node_modules\.bin\mime.cmd134201385563013841 0
-60C:\Users\egorh\Documents\GitHub\ASYNC\dist\ASYNC.579125c3.js134211744616244220 0
-64C:\Users\egorh\Documents\GitHub\ASYNC\dist\ASYNC.579125c3.js.map134211744616304380 0
-60C:\Users\egorh\Documents\GitHub\ASYNC\dist\ASYNC.59712999.js134211744616384221 0
-64C:\Users\egorh\Documents\GitHub\ASYNC\dist\ASYNC.59712999.js.map134211744616464245 0
+60C:\Users\egorh\Documents\GitHub\ASYNC\dist\ASYNC.579125c3.js134213508129111619 0
+64C:\Users\egorh\Documents\GitHub\ASYNC\dist\ASYNC.579125c3.js.map134213508129182372 0
+60C:\Users\egorh\Documents\GitHub\ASYNC\dist\ASYNC.59712999.js134213508129237708 0
+64C:\Users\egorh\Documents\GitHub\ASYNC\dist\ASYNC.59712999.js.map134213508129302923 0
