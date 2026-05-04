@@ -1,51 +1,49 @@
-const API_KEY = "44015822-49767676646b9a89767f40673";
-const BASE_URL = "https://pixabay.com/api/";
-
-let page = 1;
-const perPage = 12;
+const API_KEY = "55714880-b78f37b6e8e6ea7569ba17e8f";
 
 const gallery = document.getElementById("gallery");
 const loadMoreBtn = document.getElementById("loadMore");
 
-if (localStorage.getItem("page")) {
-  page = parseInt(localStorage.getItem("page"));
-}
+let page = 1;
+
 
 async function fetchImages() {
   try {
-    const response = await fetch(
-      `${BASE_URL}?key=${API_KEY}&editors_choice=true&image_type=photo&page=${page}&per_page=${perPage}`,
+    const res = await fetch(
+      `https://pixabay.com/api/?key=${API_KEY}&q=cat&image_type=photo&page=${page}&per_page=12`,
     );
 
-    const data = await response.json();
-
-    renderImages(data.hits);
-
-    if (data.hits.length === 0) {
-      loadMoreBtn.style.display = "none";
+    if (!res.ok) {
+      const text = await res.text();
+      throw new Error(text);
     }
+
+    const data = await res.json();
+    renderImages(data.hits);
   } catch (error) {
-    console.error("Помилка:", error);
+    console.error("Помилка:", error.message);
   }
 }
 
+
 function renderImages(images) {
   images.forEach((img) => {
-    const div = document.createElement("div");
-    div.classList.add("image-card");
+    const imgEl = document.createElement("img");
 
-    div.innerHTML = `
-      <img src="${img.webformatURL}" alt="${img.tags}" style="width: 300px; margin: 10px;">
-    `;
+    imgEl.src = img.webformatURL;
+    imgEl.alt = img.tags;
 
-    gallery.appendChild(div);
+    imgEl.style.width = "200px";
+    imgEl.style.margin = "10px";
+
+    gallery.appendChild(imgEl);
   });
 }
 
+
 loadMoreBtn.addEventListener("click", () => {
-  page++;
-  localStorage.setItem("page", page);
+  page += 1;
   fetchImages();
 });
+
 
 fetchImages();
